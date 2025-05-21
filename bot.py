@@ -9,7 +9,7 @@ load_dotenv()
 
 api_key = os.getenv('API_KEY')
 bot = telebot.TeleBot(api_key)
-chat_id = '-1002638741545'
+chat_id = '-1002332064031'
 
 
 #GET IMAGE
